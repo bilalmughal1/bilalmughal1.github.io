@@ -4,8 +4,8 @@
 
  Project:   VirtualGram Template
  Version:   1.0
- Author:    Mikhail Abdillah
- Website:   https://www.macode.web.id/
+ Author:    Fahad Bilal Saleem
+ Website:   https://www.fahadbilal.me
 
  [Table of contents]
 
@@ -115,12 +115,7 @@ a:hover,
 a:active {
   color: #2184f5;
 }
-/* Partical-js */
-#particles-js {
-  height: 100%;
- background-color:black;
- color:#2960f7;
-}
+
 
 /* Image Responsive */
 .img-place {
