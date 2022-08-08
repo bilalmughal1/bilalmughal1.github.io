@@ -288,6 +288,7 @@ h3 {
 
 #particles-js {
   height: 100%;
+  position: absolute;
 }
 
 .divider {
